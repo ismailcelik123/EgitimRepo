@@ -13,6 +13,7 @@ namespace ConsoleAppDenemeGit
             Console.WriteLine("Merhaba :)");
             Console.ReadLine();
 
+
         }
     }
 }
