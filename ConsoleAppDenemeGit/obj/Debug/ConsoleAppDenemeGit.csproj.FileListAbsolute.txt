@@ -1,0 +1,7 @@
+C:\Users\ismail.celik\source\repos\ConsoleAppDenemeGit\ConsoleAppDenemeGit\bin\Debug\ConsoleAppDenemeGit.exe.config
+C:\Users\ismail.celik\source\repos\ConsoleAppDenemeGit\ConsoleAppDenemeGit\bin\Debug\ConsoleAppDenemeGit.exe
+C:\Users\ismail.celik\source\repos\ConsoleAppDenemeGit\ConsoleAppDenemeGit\bin\Debug\ConsoleAppDenemeGit.pdb
+C:\Users\ismail.celik\source\repos\ConsoleAppDenemeGit\ConsoleAppDenemeGit\obj\Debug\ConsoleAppDenemeGit.csproj.AssemblyReference.cache
+C:\Users\ismail.celik\source\repos\ConsoleAppDenemeGit\ConsoleAppDenemeGit\obj\Debug\ConsoleAppDenemeGit.csproj.CoreCompileInputs.cache
+C:\Users\ismail.celik\source\repos\ConsoleAppDenemeGit\ConsoleAppDenemeGit\obj\Debug\ConsoleAppDenemeGit.exe
+C:\Users\ismail.celik\source\repos\ConsoleAppDenemeGit\ConsoleAppDenemeGit\obj\Debug\ConsoleAppDenemeGit.pdb
